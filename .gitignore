@@ -1,0 +1,6 @@
+.vscode/
+.DS_Store
+node_modules/
+package.json
+package-lock.json
+my_twitter_key.json
