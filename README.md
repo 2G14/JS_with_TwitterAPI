@@ -13,6 +13,6 @@ Now this can tweet only text.
 ```bash
 $ npm init # setting npm
 $ npm install twitter
-$ vim ./content/js/twitter_key.json # write your Twitter API key & secret
+$ vim ./js/twitter_key.json # write your Twitter API key & secret
 $ node tweet.js [text] # you can tweet only text
 ```
